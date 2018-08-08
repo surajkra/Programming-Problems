@@ -1,7 +1,18 @@
+/*
 *Problem Statement:*
 
-![alt text](Pictures/2D Array - DS.PNG)
+Complete the function hourglassSum in the editor below. It should return an integer, the maximum hourglass sum in the array.
+hourglassSum has the following parameter(s): arr: an array of integers
 
+Input Format:
+Each of the 6 lines of inputs arr, contains 6 space-separated integers .
+
+Output Format:
+Print the largest (maximum) hourglass sum found in arr.
+
+
+
+*/
 #include <bits/stdc++.h>
 
 using namespace std;
