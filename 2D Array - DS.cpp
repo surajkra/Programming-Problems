@@ -9,9 +9,6 @@ Each of the 6 lines of inputs arr, contains 6 space-separated integers .
 
 Output Format:
 Print the largest (maximum) hourglass sum found in arr.
-
-
-
 */
 #include <bits/stdc++.h>
 
